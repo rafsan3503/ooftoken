@@ -1,0 +1,11 @@
+/* Poppins */
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/KYQLPR2735WAT5CT22Y22PYHV3W52QJO.woff2') format('woff2'),
+       url('../fonts/KYQLPR2735WAT5CT22Y22PYHV3W52QJO.woff') format('woff'),
+       url('../fonts/KYQLPR2735WAT5CT22Y22PYHV3W52QJO.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+}
+
